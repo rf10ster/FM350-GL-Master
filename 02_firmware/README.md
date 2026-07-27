@@ -24,3 +24,9 @@
 3. Подготовка файлов
 4. Обновление через fastboot/adb
 5. Валидация после обновления
+
+## 📌 Документы Package 4
+
+- comparison matrix: `comparison/firmware-matrix.md`
+- backup guide: `guides/01-backup-procedure.md`
+- rollback guide: `guides/02-rollback-procedure.md`
