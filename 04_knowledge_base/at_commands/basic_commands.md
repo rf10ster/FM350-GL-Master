@@ -1,0 +1,2 @@
+# Basic AT Commands
+ATI, AT+CGMM, AT+CGMR, AT+CGSN, AT+CSQ, AT+COPS?, AT+CREG?, AT+QCFG
