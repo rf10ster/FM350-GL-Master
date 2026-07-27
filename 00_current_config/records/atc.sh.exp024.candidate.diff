@@ -1,0 +1,22 @@
+--- 00_current_config/records/atc.sh.router.snapshot	2026-07-27 20:45:56
++++ 00_current_config/records/atc.sh.router.snapshot.exp024.candidate	2026-07-27 20:47:58
+@@ -511,6 +511,10 @@
+                 +CGACT )
+                     [ "$atc_debug" -gt 1 ] && echo $URCline
+                     pdp_still_active=$(echo $URCvalue | awk -F ',' '{print $2}')
++                    case "$pdp_still_active" in
++                        ""|*[!0-9]*) pdp_still_active=0 ;;
++                        *) : ;;
++                    esac
+                     ;;
+ 
+                 '+CME ERROR' )
+@@ -544,7 +548,7 @@
+                         COMMAND='AT+CMGD='$sms_index gcom -d "$device" -s /etc/gcom/at.gcom
+                         OK_received=4
+                     }
+-                    [ $OK_received -eq 10 -a $pdp_still_active -eq 0 ] && {
++                    [ "$OK_received" -eq 10 ] && [ "$pdp_still_active" -eq 0 ] && {
+                         echo 'Session diconnected by the network'
+                         release_interface
+                         echo 'Activate session'

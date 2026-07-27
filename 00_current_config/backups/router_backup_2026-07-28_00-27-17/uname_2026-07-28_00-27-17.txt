@@ -1,0 +1,1 @@
+Linux OpenWrt 6.6.141 #0 SMP Wed May 27 15:55:08 2026 aarch64 GNU/Linux

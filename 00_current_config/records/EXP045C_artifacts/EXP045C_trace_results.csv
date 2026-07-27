@@ -1,0 +1,3 @@
+trial,kind,enter,after_json_get_vars,before_ifname_probe,no_iface_path,after_initiate,before_cmee,before_cfun1,before_urc_loop,return_1,updown,signal_like
+1,CAND,2,2,2,2,0,0,0,0,0,5,56
+1,BASE,3,2,2,2,0,0,0,0,0,5,58

@@ -61,3 +61,11 @@ Collect and attach at each checkpoint:
 
 RU: Артефакты обязательны для воспроизводимости и сравнения экспериментов.
 EN: Artifacts are mandatory for reproducibility and experiment comparison.
+
+## 7. Next Experiment Proposal
+
+- Follow-up proposal for the deterministic silent-regression case:
+  - `00_current_config/guides/06-experiment-proposal-deterministic-silent-regression.md`
+
+RU: Следующий эксперимент должен быть fail-closed, с обязательным сохранением артефактов даже при non-zero exit code.
+EN: The next experiment should be fail-closed, with artifacts preserved even on non-zero exit code.

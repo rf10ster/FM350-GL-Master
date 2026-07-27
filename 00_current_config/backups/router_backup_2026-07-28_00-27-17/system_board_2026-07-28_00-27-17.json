@@ -1,0 +1,16 @@
+{
+	"kernel": "6.6.141",
+	"hostname": "OpenWrt",
+	"system": "ARMv8 Processor rev 4",
+	"model": "GL.iNet GL-MT3000",
+	"board_name": "glinet,gl-mt3000",
+	"rootfs_type": "squashfs",
+	"release": {
+		"distribution": "OpenWrt",
+		"version": "24.10.7",
+		"revision": "r29197-ab4c7d6af7",
+		"target": "mediatek/filogic",
+		"description": "OpenWrt 24.10.7 r29197-ab4c7d6af7",
+		"builddate": "1779897308"
+	}
+}

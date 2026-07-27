@@ -58,6 +58,14 @@ For each checkpoint provide:
 - Did success criteria pass:
 - Any regressions:
 
+If marker-gated A/B was used, include:
+
+- CSV schema version (for example includes `silent` column)
+- valid+informative counts by branch (BASE/CAND)
+- mean churn (`up/down`) on valid+informative windows
+- silent-window rate by branch
+- confidence note if informative thresholds were not reached
+
 ## Rollback
 
 - Rollback executed (yes/no):

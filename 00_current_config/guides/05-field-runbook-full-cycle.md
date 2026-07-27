@@ -60,6 +60,20 @@ If any checkpoint fails:
 2. If failure occurred, fill incident report:
    - `00_current_config/guides/03-incident-report-template.md`
 
+Recommended controlled A/B command:
+
+```bash
+sh 00_current_config/scripts/run_exp_ab_marker_series.sh \
+  fm350-router 20 12 EXP029 5 5
+```
+
+Interpretation rules:
+
+1. Exclude windows with USB confounders (`valid=0`).
+2. Use only informative windows for churn mean (`informative=1`).
+3. Track silent-window rate (`silent=1`) as regression signal.
+4. Treat result as low confidence until both branches reach minimum informative windows.
+
 ## Cycle F: Firmware Track Gate
 
 Move to firmware track only when:

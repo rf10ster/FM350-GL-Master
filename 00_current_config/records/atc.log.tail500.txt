@@ -1,0 +1,500 @@
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:20 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is setting up now
+Mon Jul 27 16:44:21 2026 daemon.notice netifd: Interface 'wan_fm350_atc' is now down
+Mon Jul 27 16:44:21 2026 authpriv.info dropbear[26780]: Exit (root) from <192.168.8.119:53174>: Disconnect received
+Mon Jul 27 16:44:22 2026 daemon.warn odhcpd[1935]: No default route present, setting ra_lifetime to 0!
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.613461] usb 2-1: USB disconnect, device number 29
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.618639] rndis_host 2-1:1.0 eth2: unregister 'rndis_host' usb-11200000.usb-1, RNDIS device
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.674225] option1 ttyUSB0: GSM modem (1-port) converter now disconnected from ttyUSB0
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.682306] option 2-1:1.2: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.687281] option1 ttyUSB1: GSM modem (1-port) converter now disconnected from ttyUSB1
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.695453] option 2-1:1.3: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.700370] option1 ttyUSB2: GSM modem (1-port) converter now disconnected from ttyUSB2
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.708554] option 2-1:1.4: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.713520] option1 ttyUSB3: GSM modem (1-port) converter now disconnected from ttyUSB3
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.721663] option 2-1:1.5: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.726610] option1 ttyUSB4: GSM modem (1-port) converter now disconnected from ttyUSB4
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.734778] option 2-1:1.6: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.739693] option1 ttyUSB5: GSM modem (1-port) converter now disconnected from ttyUSB5
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.747862] option 2-1:1.7: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.752757] option1 ttyUSB6: GSM modem (1-port) converter now disconnected from ttyUSB6
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.760925] option 2-1:1.8: device disconnected
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.765882] option1 ttyUSB7: GSM modem (1-port) converter now disconnected from ttyUSB7
+Mon Jul 27 16:44:32 2026 kern.info kernel: [11003.774041] option 2-1:1.9: device disconnected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.131058] usb 2-1: new SuperSpeed USB device number 30 using xhci-mtk
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.185017] rndis_host 2-1:1.0 eth2: register 'rndis_host' at usb-11200000.usb-1, RNDIS device, 00:00:11:12:13:14
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.198778] option 2-1:1.2: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.205178] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB0
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.214672] option 2-1:1.3: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.221019] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB1
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.230320] option 2-1:1.4: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.236724] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB2
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.246070] option 2-1:1.5: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.252418] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB3
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.261731] option 2-1:1.6: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.268156] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB4
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.283449] option 2-1:1.7: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.289845] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB5
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.299186] option 2-1:1.8: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.305623] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB6
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.315147] option 2-1:1.9: GSM modem (1-port) converter detected
+Mon Jul 27 16:44:33 2026 kern.info kernel: [11004.321562] usb 2-1: GSM modem (1-port) converter now attached to ttyUSB7
+Mon Jul 27 16:44:50 2026 authpriv.info dropbear[1765]: Child connection from 192.168.8.119:53245
+Mon Jul 27 16:44:50 2026 authpriv.notice dropbear[1765]: Pubkey auth succeeded for 'root' with ssh-ed25519 key SHA256:WSkUOWni4yCRjmRLWvKaz7sNPmdpJ9QnK0bwFfTSAlc from 192.168.8.119:53245
+Mon Jul 27 16:44:50 2026 authpriv.info dropbear[1765]: Exit (root) from <192.168.8.119:53245>: Disconnect received
+Mon Jul 27 16:45:56 2026 authpriv.info dropbear[1768]: Child connection from 192.168.8.119:53338
+Mon Jul 27 16:45:56 2026 authpriv.notice dropbear[1768]: Pubkey auth succeeded for 'root' with ssh-ed25519 key SHA256:WSkUOWni4yCRjmRLWvKaz7sNPmdpJ9QnK0bwFfTSAlc from 192.168.8.119:53338
+Mon Jul 27 16:45:56 2026 authpriv.info dropbear[1768]: Exit (root) from <192.168.8.119:53338>: Disconnect received
+Mon Jul 27 16:45:56 2026 authpriv.info dropbear[1770]: Child connection from 192.168.8.119:53339
+Mon Jul 27 16:45:56 2026 authpriv.notice dropbear[1770]: Pubkey auth succeeded for 'root' with ssh-ed25519 key SHA256:WSkUOWni4yCRjmRLWvKaz7sNPmdpJ9QnK0bwFfTSAlc from 192.168.8.119:53339
